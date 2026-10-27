@@ -1,0 +1,9 @@
+{
+  "name": "civicsnap-server",
+  "version": "1.0.0",
+  "description": "Backend for CivicSnap India",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
